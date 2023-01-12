@@ -1,22 +1,4 @@
-<?php 
 
-session_start();
-// ob_start();
-$_SESSION["key"] = "";
-
-// if (isset($_POST['sub'])) {
-//    $_SESSION['name'] = $_POST['name'];
-//    $_SESSION['email'] = $_POST['email'];
-//    $_SESSION['pass'] = $_POST['pass'];
-//    $_SESSION['check'] = $_POST['check'];
-//    $_SESSION['country'] = $_POST['country'];
-//    $_SESSION['gender'] = $_POST['gender'];
-//    $_SESSION['rand'] =  rand(1,9).(rand(1000,10000)*10);
-
-//    header("location:download");
-
-// }
-?>
 <!DOCTYPE html>
 <html>
 	<head>
